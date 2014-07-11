@@ -1,4 +1,4 @@
 customScrollBar
 ===============
 
-jQuery自定义滚动条插件
+jquery custom scrollbar plugin.
